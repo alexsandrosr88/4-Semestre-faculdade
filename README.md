@@ -8,7 +8,7 @@ Projeto desenvolvido no quarto semestre do curso de análise e desenvolvimento d
 A ideia dessa solução é gerenciar a agenda de pacientes do médico, onde imaginamos os cenários:
 - O paciente agenda sua consulta direto pelo site.
 - O paciente entra em contato com clínica para agendamento de consulta.
-- Entre outros(Tenho mais informação para colocar...)
+- Entre outros...
 
 Com intuito de desenvolver as habilidades em POO, MVC e lógica de programação onde foram consolidados os conhecimentos em:
 
@@ -39,4 +39,4 @@ Com intuito de desenvolver as habilidades em POO, MVC e lógica de programação
 
 ## OBSERVAÇÃO!
 
-- Como o projeto desenvolvido na versão 8 do java, também para o uso com o banco de dados mysql, estou readequando o projeto para o uso com H2 e também para o Java 17.
+- Como o projeto foi desenvolvido na versão 8 do java, também para o uso com o banco de dados mysql, estou readequando o projeto para o uso com H2 e também para o Java 17.
