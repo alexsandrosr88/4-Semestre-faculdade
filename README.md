@@ -23,6 +23,9 @@ Com intuito de desenvolver as habilidades em POO, MVC e lógica de programação
 - Arquitetura MVC
 - Banco de dados
 - MySQL
+- Spring Boot
+- JPA
+- Spring Web
 
 ## Tecnologias utilizadas
 
@@ -30,6 +33,8 @@ Com intuito de desenvolver as habilidades em POO, MVC e lógica de programação
 - H2
 - Spring Validation
 - Thymeleaf
+- JPA
+- Spring Web
 
 ## Desenvolvedores envolvidos no projeto
  - Alexsandro da Silva Ramos (Banco de dados e back end)
